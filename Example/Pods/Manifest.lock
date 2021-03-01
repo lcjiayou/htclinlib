@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - htclinlib (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - htclinlib (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  htclinlib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  htclinlib: 9b24d2b3339005fc7fa2a337e0c23d62093dc2d8
+
+PODFILE CHECKSUM: 6a54d52fe13248e7944bac022bf25e43d7e2e7fe
+
+COCOAPODS: 1.10.1

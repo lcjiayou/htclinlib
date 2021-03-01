@@ -1,0 +1,6 @@
+framework module htclinlib {
+  umbrella header "htclinlib-umbrella.h"
+
+  export *
+  module * { export * }
+}

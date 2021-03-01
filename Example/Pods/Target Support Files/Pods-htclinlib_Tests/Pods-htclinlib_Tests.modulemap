@@ -1,0 +1,6 @@
+framework module Pods_htclinlib_Tests {
+  umbrella header "Pods-htclinlib_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

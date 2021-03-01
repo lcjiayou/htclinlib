@@ -1,0 +1,6 @@
+framework module Pods_htclinlib_Example {
+  umbrella header "Pods-htclinlib_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
